@@ -1,3 +1,2 @@
-i#!/bin/bash
-printf "Hello, World"
-
+#!/bin/bash
+echo “Hello, World”
